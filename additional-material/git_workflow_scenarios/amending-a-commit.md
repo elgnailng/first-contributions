@@ -41,6 +41,9 @@ Usually after adding files to the staging area, the next thing we do is git comm
 But since what we want to achieve here is to amend the previous commit, we would instead run:
 
 * ```git commit --ammend```
+
+following would show-up:
+
  This would then bring up the text editor and prompt you to edit the message. You can decide to leave the message as it was before or change it.
 * Exit the editor
 * Push your changes with ```git push origin <branch-name```
