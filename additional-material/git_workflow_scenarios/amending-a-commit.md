@@ -43,6 +43,7 @@ But since what we want to achieve here is to amend the previous commit, we would
 * ```git commit --ammend```
 
 following would show-up:
+hello
 
  This would then bring up the text editor and prompt you to edit the message. You can decide to leave the message as it was before or change it.
 * Exit the editor
